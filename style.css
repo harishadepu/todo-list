@@ -63,8 +63,8 @@ li::before{
     top: 10px;
     bottom: 20px;
     left: 0px;
-    height: 25px;
-    width: 25px;
+    height: 22px;
+    width: 22px;
     border-radius: 50%;
     border:1px solid black;
 }
