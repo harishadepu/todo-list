@@ -66,8 +66,9 @@ li::before{
     height: 25px;
     width: 25px;
     border-radius: 50%;
-    background-image: url(/images/unchecked.png);
+    background-image: url("https://png.pngtree.com/element_our/20200702/ourmid/pngtree-simple-style-correct-symbol-icon-material-image_2291415.jpg");
     background-size: cover;
+    border:1px solid black;
 }
 ul li.checked{
     color: #555;
