@@ -73,7 +73,7 @@ ul li.checked{
     text-decoration: line-through;
 }
 ul li.checked::before{
-    background-image: url("https://png.pngtree.com/element_our/20200702/ourmid/pngtree-simple-style-correct-symbol-icon-material-image_2291415.jpg");
+    background-image: url("https://toppng.com/uploads/preview/right-11550716422rth6tsvdzw.png");
     background-size: cover;
 }
 @media (max-width:320px){
